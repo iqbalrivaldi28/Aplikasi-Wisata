@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">NatureExploreSampleUI</string>
+    <string name="explore_nature">Discover Freedom</string>
+    <string name="description">Take a city break and discover the beuty of nature. Unwind without any worries and find out what freedom really means</string>
+    <string name="read_more">Read More</string>
+    <string name="search">Search</string>
+    <string name="explore_place">Explore places</string>
+    <string name="trending">Trending</string>
+    <string name="bromo">Bromo</string>
+    <string name="location">5.6km</string>
+    <string name="camping">Camping</string>
+    <string name="country_side">Village</string>
+    <string name="mountain">Mountain</string>
+    <string name="lake">Lake</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="navigation">Navigation</string>
+    <string name="popular_categories">Popular Categories</string>
+    <string name="intro">Hello there ! \ni am just trying to exercise and implement this wonderfull mockups into android \nyou can find this project at the link on my bio \nand dont forget to give this post some love \nthank you</string>
+
+    <string-array name="place_name">
+        <item>Bromo</item>
+        <item>Bali</item>
+        <item>Flores</item>
+        <item>Dieng</item>
+        <item>Gunung Bromo</item>
+        <item>Kelimutu</item>
+        <item>Komodo</item>
+        <item>Lombok</item>
+        <item>Raung</item>
+        <item>Rinjani</item>
+    </string-array>
+
+    <array name="data_image">
+        <item>@drawable/bromo</item>
+        <item>@drawable/bali</item>
+        <item>@drawable/flores</item>
+        <item>@drawable/dieng</item>
+        <item>@drawable/bromo_2</item>
+        <item>@drawable/kelimutu</item>
+        <item>@drawable/komodo</item>
+        <item>@drawable/lombok</item>
+        <item>@drawable/raung</item>
+        <item>@drawable/rinjani</item>
+    </array>
+
+    <string-array name="place_location">
+        <item>100km</item>
+        <item>300km</item>
+        <item>350km</item>
+        <item>100km</item>
+        <item>100km</item>
+        <item>80km</item>
+        <item>270km</item>
+        <item>320km</item>
+        <item>160km</item>
+        <item>800km</item>
+    </string-array>
+</resources>
